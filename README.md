@@ -4,15 +4,15 @@
 <h3 align="left">About Me:</h3>
 
 
-- I was active duty Air Force <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/US-Air-Force-logo.png" alt="AirForce" width="30" height="30"/> for 12 years, 10 months, 26 days (not including the drive there and back). I was a high voltage lineman for the first 10 years before being given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk).
+- I was active duty Air Force <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/US-Air-Force-logo.png" alt="AirForce" width="30" height="30"/> for 12 years, 10 months, 26 days (not including the drive there and back). I was a high voltage lineman for the first 10 years before being given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk). I was excited to pursue a new career as a team lead on a Reliability, Maintenance, and Engineering
 
-- 🌱 I am currently learning as much as I possibly can while attending <a href="https://www.bloomtech.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/bloomtech.png" alt="BloomTech" width="15" height="15"/> </a> [Bloom Institute of Technology](https://www.bloomtech.com/)
+- 🌱 I am currently learning as much as I possibly can while attending <a href="https://www.bloomtech.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/bloomtech.png" alt="BloomTech" width="15" height="15"/> </a> [Bloom Institute of Technology](https://www.bloomtech.com/). 
 
 - 👨‍💻 All of my projects are available at [github.com/Mattheus85](https://github.com/Mattheus85)
 
 - 📫 Email me at **19mattheus85@gmail.com**
 
-- ⚡ Fun fact **I speed-solve Rubik's Cubes, juggle, and can ride a unicycle!**
+- ⚡ Fun facts: **I speed-solve Rubik's Cubes, juggle, and can ride a unicycle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
