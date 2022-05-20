@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew Mattheus</h1>
 <h3 align="center">I'm a backend developer with a passion for learning.</h3>
 
+- 🌱 I’m currently learning as much as I possibly can while attending Bloom Institute of Technology
+
 - 👨‍💻 All of my projects are available at [https://github.com/Mattheus85](https://github.com/Mattheus85)
 
 - 📫 How to reach me **19mattheus85@gmail.com**
