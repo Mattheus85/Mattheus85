@@ -4,7 +4,9 @@
 <h3 align="left">About Me:</h3>
 
 
-- I was active duty Air Force <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/US-Air-Force-logo.png" alt="AirForce" width="30" height="30"/> for 12 years, 10 months, 26 days (not including the drive there and back). I was a high voltage lineman for the first 10 years before being given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk). I was excited to pursue a new career as a team lead on a Reliability, Maintenance, and Engineering
+- My first job was in construction as a pipe layer in the hot Florida sun. I joined the Air Force <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/US-Air-Force-logo.png" alt="AirForce" width="30" height="30"/> in 2006 and was active duty for 12 years, 10 months, 26 days (not including the drive there and back). I spent the first 10 years as a high voltage lineman, contracting representative, and an instructor. My favorite job was teaching electricians how to be safe during their deployments overseas. My career took a turn when I was given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk) in 2017. <p> </p>As awesome as it was to be a part of the aviation side of the Air Force, I was very excited to pursue a new career path in the civilian world as a team lead on a Reliability, Maintenance, and Engineering crew contracted by Amazon in 2019. I very much enjoyed working with my blue collar brethren once again but the microscopic world of a little thing called COVID-19 forced me to once again make a change. So now here I am, eager to begin an entirely new life in tech.
+
+<h3 align="left">What now?</h3>
 
 - 🌱 I am currently learning as much as I possibly can while attending <a href="https://www.bloomtech.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/bloomtech.png" alt="BloomTech" width="15" height="15"/> </a> [Bloom Institute of Technology](https://www.bloomtech.com/). 
 
@@ -16,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mattheus85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattheus85" height="24" width="32" /></a>
+<a href="https://linkedin.com/in/mattheus85" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattheus85" height="24" width="32" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
