@@ -4,7 +4,7 @@
 <h3 align="left">About Me:</h3>
 
 
-- I began in underground construction as a pipe layer. I joined the Air Force in 2006 and was active duty for 12 years, 10 months, 26 days (not including the drive there and back). I spent the first 10 years as a high voltage lineman, contracting representative, and an instructor. Things took a turn when I was given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk) in 2017. As great as it was to be a part of the aviation side of the Air Force, I was very excited to pursue a new career in the civilian world. I joined [ELS](http://www.elitelineservices.com/) as a maintenance team lead in 2019. I am now pursuing a career in tech and wonder only why it's taken me so long.
+- I began in underground construction as a pipe layer. I joined the Air Force in 2006 and was active duty for 12 years, 10 months, 26 days (not including the drive there and back). I spent the first 10 years as a high voltage lineman and instructor. In 2017 I was given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk). As awesome as it was to be a pilot in the Air Force, I was very excited to pursue a new career in the civilian world. In 2019 I joined [ELS](http://www.elitelineservices.com/) as a maintenance team lead. I am now pursuing a career in tech and wonder only why it's taken me so long as I absolutely love it!
 
 <h3 align="left">What now?</h3>
 
@@ -29,4 +29,3 @@
 
 <h3 align="left">Other Skills:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
-
