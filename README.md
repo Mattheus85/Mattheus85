@@ -4,11 +4,11 @@
 <h3 align="left">About Me:</h3>
 
 
-- I began in underground construction as a pipe layer. I joined the Air Force in 2006 and was active duty for 12 years, 10 months, 26 days (not including the drive there and back). I spent the first 10 years as a high voltage lineman and instructor. In 2017 I was given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk). While it was great being a pilot in the Air Force, I was very excited to pursue a new career in the civilian world when my commitment ended. In 2019 I joined [ELS](http://www.elitelineservices.com/) as a maintenance team lead. I am now pursuing a career in tech and wonder only why it's taken me so long as I absolutely love it!
+- I began in underground construction as a pipe layer. I joined the Air Force in 2006 and was active duty for 12 years, 10 months, 26 days (not including the drive there and back). I spent the first 10 years as a high voltage lineman and instructor. In 2017 I was given the opportunity to fly the [RQ-4 Global Hawk](https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk). While it was great being a pilot in the Air Force, I was very excited to pursue a new career in the civilian world when my commitment ended. In 2019 I joined [ELS](http://www.elitelineservices.com/) as a maintenance team lead. I am now a software engineer and wonder only why it's taken me so long as I absolutely love it!
 
 <h3 align="left">What now?</h3>
 
-- 🌱 I am currently learning as much as I possibly can while attending <a href="https://www.bloomtech.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mattheus85/Mattheus85/blob/main/icons/bloomtech.png" alt="BloomTech" width="15" height="15"/> </a> [Bloom Institute of Technology](https://www.bloomtech.com/). 
+- 🌱 I am currently learning as much as I possibly can while working at Inmar Intelligence. 
 
 - 👨‍💻 All of my projects are available at [github.com/Mattheus85](https://github.com/Mattheus85)
 
