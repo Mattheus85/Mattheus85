@@ -14,7 +14,7 @@
 
 - 📫 Email me at **19mattheus85@gmail.com**
 
-- ⚡ Fun facts: **I speed-solve Rubik's Cubes, juggle, and can ride a unicycle!**
+- ⚡ Fun facts: **I speed-solve Rubik's Cubes, juggle, and can ride a unicycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
